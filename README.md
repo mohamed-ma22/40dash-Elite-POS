@@ -1,7 +1,7 @@
 # 40DASH ELITE POS 🛒
 > A Secure, Production-Ready Commercial POS System for Small & Medium Businesses (SMBs).
 
-Developed by **Mohamed Hatem Elosily**, this system is built with a focus on high throughput, zero downtime, and robust data integrity. **40DASH ELITE** is an offline-first Desktop POS application designed to handle dense, real-time retail transactions without relying on cloud dependencies.
+Developed by **Mohamed Ashraf**, this system is built with a focus on high throughput, zero downtime, and robust data integrity. **40DASH** is an offline-first Desktop POS application designed to handle dense, real-time retail transactions without relying on cloud dependencies.
 
 ---
 
