@@ -2,6 +2,13 @@
 > A Secure, Production-Ready Commercial POS System for Small & Medium Businesses (SMBs).
 
 Developed by **Mohamed Ashraf**, this system is built with a focus on high throughput, zero downtime, and robust data integrity. **40DASH** is an offline-first Desktop POS application designed to handle dense, real-time retail transactions without relying on cloud dependencies.
+## 🖥️ System Interface (UI/UX)
+
+> A glimpse into the modern, user-friendly JavaFX interface designed for rapid retail operations.
+
+![Dashboard Interface](dashboard.png)
+
+![POS Interface](pos-interface.png)
 
 ---
 
