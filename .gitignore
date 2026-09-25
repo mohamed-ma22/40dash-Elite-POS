@@ -1,0 +1,22 @@
+# Compilations & Builds
+target/
+Final_Release/
+*.class
+*.jar
+*.exe
+
+# Database & Sensitive Data
+*.db
+*.db-journal
+license.key
+config/.sys_sync
+
+# Logs
+logs/
+*.log
+
+# IDE & OS Files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
